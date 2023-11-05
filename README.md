@@ -7,7 +7,7 @@
 
 Претендую на 7-8 баллов, т.к присутсвуют критерии из разных разбалловок.
 
-[Код на ассемблере с комментариями.](https://github.com/polblack7/Code)
+[Код на ассемблере с комментариями.](https://github.com/polblack7/IHW2/Code)
 
 [Скриншоты тестов](https://github.com/polblack7/IHW/tree/main/screenshotsoftests)
 
