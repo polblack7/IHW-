@@ -13,7 +13,7 @@ a+b*x^−4 (задаётся действительными числами а,b)
 
 [Скриншоты тестов](https://github.com/polblack7/IHW2/tree/main/screenshotsoftests)
 
-[Аналог на python](https://github.com/polblack7/IHW2/blob/main/pyprogram/pyABC.py)
+[Аналог на python, а также скриншот одного из тестов(такой же тест есть и на ассемблере)](https://github.com/polblack7/IHW2/blob/main/pyprogram/pyABC.py)
 
 Теперь что было сделанно: 
 
